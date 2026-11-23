@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+#Tasklist::-webkit-scrollbar{
+    display: none;
+}
+*{
+    color: aliceblue;
+}
